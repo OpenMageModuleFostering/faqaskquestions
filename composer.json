@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/faqaskquestions",
+    "name": "openmage-module-fostering\/faqaskquestions",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "FAQ - Ask Questions used to manage the Frequently Asked Questions from magento back end and also user can ask their own questions from front end.",
     "authors": [
