@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/faqaskquestions",
+    "name": "OpenMageModuleFostering\/faqaskquestions",
     "type": "magento-module",
     "license": "OSL",
     "homepage": "",
     "description": "FAQ - Ask Questions used to manage the Frequently Asked Questions from magento back end and also user can ask their own questions from front end.",
     "authors": [
-    {
-        "name": "DCKAP",
-        "email": "extensions@dckap.com"
-    }
-],
+        {
+            "name": "DCKAP",
+            "email": "extensions@dckap.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
